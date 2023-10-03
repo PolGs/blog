@@ -1,7 +1,7 @@
 <p align="center">
   <img height="150" src="./.github/assets/flash.png" />
-  <h2 align="center">Github Pages Blog</h2>
-  <p align="center">Create good looking blog from your markdown files on GitHub<p>
+  <h2 align="center">Security Reasearch Blog</h2>
+  <p align="center">Pol Galvez<p>
   <p align="center">
     <a href="https://kamranahmed.info">
     	<img src="https://img.shields.io/badge/-Visit%20Sample%20Blog%20‎ ‎ -teal.svg?style=flat&colorA=teal" alt="kamranahmed.info" />
