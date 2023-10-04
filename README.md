@@ -5,11 +5,21 @@
 </p>
 
 <br>
+## About
+
+### - 👋 Hi, I’m @PolGs
+### - 👀 Check my repos!
+### - 🌱 Informatics Engineering student at UPC FIB
+### - 📚 Security Consultant
+### - 📫 How to reach me: polgalvezsoriano@gmail.com
+
+
+
 
 ## Links
 
-* [Linkedin](https://github.com/kamranahmedse/kamranahmedse.github.io)
-* [Live Blog](https://kamranahmed.info)
+* [Linkedin](https://www.linkedin.com/in/polgalvez/)
+* [Website](https://example.org)
 
 
 
