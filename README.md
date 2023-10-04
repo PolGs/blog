@@ -8,8 +8,10 @@
 
 ## Links
 
-* [Codebase](https://github.com/kamranahmedse/kamranahmedse.github.io)
+* [Linkedin](https://github.com/kamranahmedse/kamranahmedse.github.io)
 * [Live Blog](https://kamranahmed.info)
+
+
 
 
 ## Repo structure
