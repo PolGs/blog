@@ -15,12 +15,11 @@
 ## Repo structure
 
 ```shell
-├── about.md
+├── README.md
 ├── posts
   ├── art-of-getting-better.md
   ├── behavior-of-links-created-using-javascript.md
   └── yellow-fade-technique-in-css.md
-├── site.json
 └── static
     ├── resume.pdf
     └── ebook.pdf
